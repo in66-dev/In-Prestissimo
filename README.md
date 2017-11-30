@@ -90,3 +90,6 @@ caffe2Prestissimo.out 依赖 protobuf 3.30，请先安装 Google 的 protobuffer
 * 晨晨
 * 可召
 * 芹菜
+
+## License
+BSD 2 Clause
