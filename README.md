@@ -84,7 +84,7 @@ caffe2Prestissimo.out 依赖 protobuf 3.30，请先安装 Google 的 protobuffer
 
 ## 开发人员
 * 小棠 (jxt1234@zju.edu.cn)
-* 咖啡 (kafei@in66.com)
+* 咖啡 (wangyubin198905@gmail.com)
 * 汤圆
 * 乐涤
 * 晨晨
