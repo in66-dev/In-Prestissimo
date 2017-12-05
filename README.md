@@ -93,3 +93,6 @@ caffe2Prestissimo.out 依赖 protobuf 3.30，请先安装 Google 的 protobuffer
 
 ## License
 BSD 2 Clause
+
+## 交流群
+QQ: 676883532
