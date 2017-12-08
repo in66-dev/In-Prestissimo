@@ -41,13 +41,13 @@ axis 不支持，默认在 channel 方向作内积
 transpose 不支持
 
 ## Relu (正则层)
-Pretissmo 中不支持单独的正则层，正则层必须合并到上一层作运算
+Prestissmo 中不支持单独的正则层，正则层必须合并到上一层作运算
 ### 支持项
 以下层支持后接 Relu
 
 Convolution
 
-InnerProductt
+InnerProduct
 
 Eltwise
 
@@ -134,8 +134,8 @@ Proposal
 ## 修改纪录
 2017.9.30 初订
 
-2017.11.10 修改
-补充OpenGL ES版本的说明
+2017.11.10 修改：补充OpenGL ES版本的说明
 
-2017.11.22 修改
-修改全连接层的建议项
+2017.11.22 修改：全连接层的建议项
+
+2017.12.8 修改：修正一些拼写错误
