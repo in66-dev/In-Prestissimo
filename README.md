@@ -29,7 +29,7 @@
 
 **Note**: 像华为mate8, mate9，Google nexus 6 虽然是64位的CPU，但测试用的是 32位的库，因此cpu架构依然写 arm-v7a
 
-|CPU架构|机型|CPU|ncnn（4线程）|mdl|Prestissimo_float_st|Prestissimo_int_st|
+|CPU架构|机型|CPU|ncnn（4线程）|mdl|Prestissimo_float(单线程)|Prestissimo_int(单线程)|
 |:---:|:----:|:----:|:----:|:----:|:----:|:----:|
 |arm-v7a|小米2|高通APQ8064 1.5GHz | 185 ms| 370 ms|184 ms| 115 ms|
 |arm-v7a|小米2s| 四核 骁龙APQ8064 Pro 1.7GHz | 166 ms| - | 136 ms |96 ms |
