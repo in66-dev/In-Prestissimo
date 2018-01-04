@@ -40,6 +40,8 @@
 |arm-v7a|华为 Mate 9| 海思麒麟960 4大4小 2.4GHz 1.8GHz | 61 ms | 170 ms | 94 ms | 48 ms |
 |arm-v8|iphone7|Apple A10 Fusion 2.34GHz|- |- |27 ms|26 ms|
 
+欢迎贡献你的测试结果。[详细信息](https://github.com/in66-dev/In-Prestissimo/issues/8)
+
 ### 未开放特性
 
 * 多核并行加速（多核机器可以再提升30%-100% 的速度）
